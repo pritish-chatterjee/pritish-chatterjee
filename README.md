@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/lessthan_30" target="blank"><img src="https://img.shields.io/twitter/follow/lessthan_30?logo=twitter&style=for-the-badge" alt="lessthan_30" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js, Golang, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://www.pritishchatterjee.dev/](https://www.pritishchatterjee.dev/)
 
