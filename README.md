@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/lessthan_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lessthan_30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pritishchatterjee48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritishchatterjee48" height="30" width="40" /></a>
-<a href="https://instagram.com/lessthan_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lessthan_30" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prtchj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lessthan_30" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lessthan_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lessthan_30" height="30" width="40" /></a>
 </p>
 
